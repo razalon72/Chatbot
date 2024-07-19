@@ -1,4 +1,4 @@
-from src.client.Client import ChatClient
+from src.clients.chat_client import ChatClient
 from src.common.models import ClientSettings
 
 if __name__ == "__main__":
