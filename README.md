@@ -8,7 +8,7 @@ python3 main_ai.py # will create "ai bot" client that connect to this server
 ```
 
 ### Outputs
-```cmd
+```python
 # Server
 2024-07-19 14:14:56 [info     ] Chat server started on localhost:12345
 2024-07-19 14:15:05 [info     ] Accepted new connection from 127.0.0.1:55672 username:raza
